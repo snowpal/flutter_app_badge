@@ -1,3 +1,7 @@
+## [Unreleased]
+
+Add Swift Package Manager support (CocoaPods remains supported).
+
 ## [2.0.2]
 
 Update README.

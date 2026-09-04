@@ -1,4 +1,4 @@
-#import "FlutterAppBadgePlugin.h"
+#import "./include/flutter_app_badge/FlutterAppBadgePlugin.h"
 
 @implementation FlutterAppBadgePlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
